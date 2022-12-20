@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShopList</string>
+    <string name="error_input_count">Ошибка!</string>
+    <string name="error_input_name">Ошибка имени!</string>
+</resources>
